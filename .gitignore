@@ -1,0 +1,24 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Test
+TestResults/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Cache/temp
+*.cache
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
