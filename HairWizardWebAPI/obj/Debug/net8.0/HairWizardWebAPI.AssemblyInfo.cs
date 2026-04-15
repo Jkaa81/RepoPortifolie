@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HairWizardWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e62d20c96ec81de6a39665648396d397b68771b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("HairWizardWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HairWizardWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

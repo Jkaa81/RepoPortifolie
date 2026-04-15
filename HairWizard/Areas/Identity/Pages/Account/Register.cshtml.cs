@@ -74,7 +74,7 @@ namespace HairWizard.Areas.Identity.Pages.Account
 
             [Phone]
             [Display(Name = "Phone number")]
-            public string? PhoneNumber { get; set; }
+            public string PhoneNumber { get; set; }
 
             /// <summary>
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used

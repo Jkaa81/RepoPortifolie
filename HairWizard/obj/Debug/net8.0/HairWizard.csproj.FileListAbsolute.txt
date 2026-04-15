@@ -268,6 +268,7 @@ C:\Users\jkaa8\Desktop\HairWizard\HairWizard\obj\Debug\net8.0\HairWizard.MvcAppl
 C:\Users\jkaa8\Desktop\HairWizard\HairWizard\obj\Debug\net8.0\HairWizard.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\jkaa8\Desktop\HairWizard\HairWizard\obj\Debug\net8.0\HairWizard.RazorAssemblyInfo.cache
 C:\Users\jkaa8\Desktop\HairWizard\HairWizard\obj\Debug\net8.0\HairWizard.RazorAssemblyInfo.cs
+C:\Users\jkaa8\Desktop\HairWizard\HairWizard\obj\Debug\net8.0\HairWizard.sourcelink.json
 C:\Users\jkaa8\Desktop\HairWizard\HairWizard\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\jkaa8\Desktop\HairWizard\HairWizard\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\jkaa8\Desktop\HairWizard\HairWizard\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
