@@ -1,13 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc.Testing;
-using System.Net;
+﻿using System.Net;
 
 namespace HairWizard.Tests
 {
-    public class BookingIntegrationTests : IClassFixture<WebApplicationFactory<Program>>
+    public class BookingIntegrationTests : IClassFixture<CustomWebApplicationFactory>
     {
-        private readonly WebApplicationFactory<Program> _factory;
+        private readonly CustomWebApplicationFactory _factory;
 
-        public BookingIntegrationTests(WebApplicationFactory<Program> factory)
+        public BookingIntegrationTests(CustomWebApplicationFactory factory)
         {
             _factory = factory;
         }
@@ -15,13 +14,10 @@ namespace HairWizard.Tests
         [Fact]
         public async Task Get_BookingsPage_ReturnsSuccessStatusCode()
         {
-            // Arrange
             var client = _factory.CreateClient();
 
-            // Act
             var response = await client.GetAsync("/Bookings");
 
-            // Assert
             Assert.Equal(HttpStatusCode.OK, response.StatusCode);
         }
     }
