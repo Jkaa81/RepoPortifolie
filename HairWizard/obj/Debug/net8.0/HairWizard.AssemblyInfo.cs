@@ -12,10 +12,11 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("e46e12c1-e16f-4018-b5f9-fc49c000c7ae")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("HairWizard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e62d20c96ec81de6a39665648396d397b68771b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b9574e4d2ab9c52b8e9e79d9b7603c59ec4965b")]
 [assembly: System.Reflection.AssemblyProductAttribute("HairWizard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HairWizard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
