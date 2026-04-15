@@ -1,0 +1,6 @@
+@HairWizardWebAPI_HostAddress = http://localhost:5057
+
+GET {{HairWizardWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

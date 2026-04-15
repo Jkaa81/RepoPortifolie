@@ -1,0 +1,56 @@
+﻿@model HairWizard.ViewModels.CustomerDetailsViewModel
+
+<div class="container my-5" style="max-width: 900px;">
+    <div class="page-card">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1 class="page-title m-0">Customer details</h1>
+            <a asp-controller="Bookings" asp-action="Index" class="btn btn-light border">Back</a>
+        </div>
+
+        <div class="row g-4 mb-4">
+            <div class="col-md-6">
+                <div class="p-3 border rounded-4 bg-white h-100">
+                    <h5 class="mb-3">Customer</h5>
+                    <p class="mb-2"><strong>Name:</strong> @Model.Customer.FullName</p>
+                    <p class="mb-2"><strong>Email:</strong> @Model.Customer.Email</p>
+                    <p class="mb-0"><strong>Phone:</strong> @(string.IsNullOrWhiteSpace(Model.Customer.PhoneNumber) ? "Not provided" : Model.Customer.PhoneNumber)</p>
+                </div>
+            </div>
+        </div>
+
+        <h4 class="mb-3">Upcoming appointments</h4>
+
+        @if (Model.UpcomingBookings.Any())
+        {
+            <div class="table-soft p-3">
+                <table class="table mb-0">
+                    <thead>
+                        <tr>
+                            <th>Treatment</th>
+                            <th>Employee</th>
+                            <th>Date</th>
+                            <th>Start</th>
+                            <th>End</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var booking in Model.UpcomingBookings)
+                        {
+                            <tr>
+                                <td>@booking.Treatment.Name</td>
+                                <td>@booking.Employee.Name</td>
+                                <td>@booking.StartTime.ToString("dd-MM-yyyy")</td>
+                                <td>@booking.StartTime.ToString("HH:mm")</td>
+                                <td>@booking.EndTime.ToString("HH:mm")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        }
+        else
+        {
+            <p class="text-muted">This customer has no upcoming appointments.</p>
+        }
+    </div>
+</div>

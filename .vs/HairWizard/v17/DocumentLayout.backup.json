@@ -1,0 +1,678 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3D8909-8C5E-4791-BC05-160B56D4A552}|HairWizardWebAPI\\HairWizardWebAPI.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizardwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3D8909-8C5E-4791-BC05-160B56D4A552}|HairWizardWebAPI\\HairWizardWebAPI.csproj|solutionrelative:hairwizardwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3D8909-8C5E-4791-BC05-160B56D4A552}|HairWizardWebAPI\\HairWizardWebAPI.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizardwebapi\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3D8909-8C5E-4791-BC05-160B56D4A552}|HairWizardWebAPI\\HairWizardWebAPI.csproj|solutionrelative:hairwizardwebapi\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3D8909-8C5E-4791-BC05-160B56D4A552}|HairWizardWebAPI\\HairWizardWebAPI.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizardwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A3D8909-8C5E-4791-BC05-160B56D4A552}|HairWizardWebAPI\\HairWizardWebAPI.csproj|solutionrelative:hairwizardwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\data\\hairwizardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\data\\hairwizardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\viewmodels\\customerdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\viewmodels\\customerdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414221604_AddCustomerFieldsToApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HairWizard\\Migrations\\20260414221604_AddCustomerFieldsToApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\persistence\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\persistence\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\persistence\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\persistence\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\interfaces\\icostumerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\interfaces\\icostumerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414215037_CustomerDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HairWizard\\Migrations\\20260414215037_CustomerDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\persistence\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\persistence\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\views\\bookings\\_booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\views\\bookings\\_booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\models\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\models\\treatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\views\\bookings\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\views\\bookings\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414205833_AddTreatments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HairWizard\\Migrations\\20260414205833_AddTreatments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414205604_AddTreatments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HairWizard\\Migrations\\20260414205604_AddTreatments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\interfaces\\itreatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\interfaces\\itreatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\persistence\\treatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\persistence\\treatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|c:\\users\\jkaa8\\desktop\\hairwizard\\hairwizard\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E7292F-E8B4-44DF-8AC7-3E0D00044280}|HairWizard\\HairWizard.csproj|solutionrelative:hairwizard\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizardWebAPI\\DTOs\\BookingDto.cs",
+              "RelativeDocumentMoniker": "HairWizardWebAPI\\DTOs\\BookingDto.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizardWebAPI\\DTOs\\BookingDto.cs",
+              "RelativeToolTip": "HairWizardWebAPI\\DTOs\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:36:44.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizardWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HairWizardWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizardWebAPI\\Program.cs",
+              "RelativeToolTip": "HairWizardWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:34:41.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HairWizard\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\appsettings.Development.json",
+              "RelativeToolTip": "HairWizard\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T22:34:32.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\appsettings.json",
+              "RelativeDocumentMoniker": "HairWizard\\appsettings.json",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\appsettings.json",
+              "RelativeToolTip": "HairWizard\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T22:34:25.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizardWebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "HairWizardWebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizardWebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "HairWizardWebAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T22:34:20.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Program.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Program.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Program.cs",
+              "RelativeToolTip": "HairWizard\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:34:07.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "HairWizard\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "HairWizard\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T22:23:57.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260414221604_AddCustomerFieldsToApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414221604_AddCustomerFieldsToApplicationUser.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Migrations\\20260414221604_AddCustomerFieldsToApplicationUser.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414221604_AddCustomerFieldsToApplicationUser.cs",
+              "RelativeToolTip": "HairWizard\\Migrations\\20260414221604_AddCustomerFieldsToApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:16:05.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HairWizardContext.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Data\\HairWizardContext.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Data\\HairWizardContext.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Data\\HairWizardContext.cs",
+              "RelativeToolTip": "HairWizard\\Data\\HairWizardContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:12:48.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:05:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "HairWizard\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T22:03:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Persistence\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Persistence\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Persistence\\EmployeeRepository.cs",
+              "RelativeToolTip": "HairWizard\\Persistence\\EmployeeRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:55:34.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Services\\CustomerService.cs",
+              "RelativeToolTip": "HairWizard\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:54:36.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICostumerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Interfaces\\ICostumerRepository.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Interfaces\\ICostumerRepository.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Interfaces\\ICostumerRepository.cs",
+              "RelativeToolTip": "HairWizard\\Interfaces\\ICostumerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:54:14.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Persistence\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Persistence\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Persistence\\CustomerRepository.cs",
+              "RelativeToolTip": "HairWizard\\Persistence\\CustomerRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:53:51.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20260414215037_CustomerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414215037_CustomerDetails.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Migrations\\20260414215037_CustomerDetails.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414215037_CustomerDetails.cs",
+              "RelativeToolTip": "HairWizard\\Migrations\\20260414215037_CustomerDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:50:37.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Customers\\Details.cshtml",
+              "RelativeDocumentMoniker": "HairWizard\\Views\\Customers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Customers\\Details.cshtml",
+              "RelativeToolTip": "HairWizard\\Views\\Customers\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T21:46:16.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "HairWizard\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:44:14.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\ViewModels\\CustomerDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "HairWizard\\ViewModels\\CustomerDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\ViewModels\\CustomerDetailsViewModel.cs",
+              "RelativeToolTip": "HairWizard\\ViewModels\\CustomerDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:41:52.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HairWizard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HairWizard\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T21:34:48.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HairWizard\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:33:57.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "HairWizard\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:30:24.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "HairWizard\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "HairWizard\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-14T21:18:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Models\\Employee.cs",
+              "RelativeToolTip": "HairWizard\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:09:48.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Models\\Booking.cs",
+              "RelativeToolTip": "HairWizard\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:08:48.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Bookings\\Add.cshtml",
+              "RelativeDocumentMoniker": "HairWizard\\Views\\Bookings\\Add.cshtml",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Bookings\\Add.cshtml",
+              "RelativeToolTip": "HairWizard\\Views\\Bookings\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T21:03:24.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260414205833_AddTreatments.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414205833_AddTreatments.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Migrations\\20260414205833_AddTreatments.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414205833_AddTreatments.cs",
+              "RelativeToolTip": "HairWizard\\Migrations\\20260414205833_AddTreatments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:58:34.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20260414205604_AddTreatments.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414205604_AddTreatments.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Migrations\\20260414205604_AddTreatments.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Migrations\\20260414205604_AddTreatments.cs",
+              "RelativeToolTip": "HairWizard\\Migrations\\20260414205604_AddTreatments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:56:04.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Persistence\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Persistence\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Persistence\\BookingRepository.cs",
+              "RelativeToolTip": "HairWizard\\Persistence\\BookingRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:51:52.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Treatment.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Models\\Treatment.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Models\\Treatment.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Models\\Treatment.cs",
+              "RelativeToolTip": "HairWizard\\Models\\Treatment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:50:31.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "HairWizard\\Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "HairWizard\\Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T20:49:55.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITreatmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Interfaces\\ITreatmentRepository.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Interfaces\\ITreatmentRepository.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Interfaces\\ITreatmentRepository.cs",
+              "RelativeToolTip": "HairWizard\\Interfaces\\ITreatmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:46:21.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TreatmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Persistence\\TreatmentRepository.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Persistence\\TreatmentRepository.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Persistence\\TreatmentRepository.cs",
+              "RelativeToolTip": "HairWizard\\Persistence\\TreatmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:44:43.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "HairWizard\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAIwIgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:41:08.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "HairWizard\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Services\\BookingService.cs",
+              "RelativeToolTip": "HairWizard\\Services\\BookingService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwDIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T20:36:17.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Booking.cshtml",
+              "DocumentMoniker": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Bookings\\_Booking.cshtml",
+              "RelativeDocumentMoniker": "HairWizard\\Views\\Bookings\\_Booking.cshtml",
+              "ToolTip": "C:\\Users\\jkaa8\\Desktop\\HairWizard\\HairWizard\\Views\\Bookings\\_Booking.cshtml",
+              "RelativeToolTip": "HairWizard\\Views\\Bookings\\_Booking.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T19:50:46.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
