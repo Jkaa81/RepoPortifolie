@@ -92,6 +92,8 @@ jobs:
             docker pull jkaa81/hairwizard-repo:latest
             docker stop hairwizard || true
             docker rm hairwizard || true
+            docker run --rm -v hairwizard_data:/data alpine sh -c "chmod 777 /data"
+            docker run --rm -v hairwizard_keys:/keys alpine sh -c "chmod 777 /keys"
             docker run -d \
               --name hairwizard \
               --restart unless-stopped \
